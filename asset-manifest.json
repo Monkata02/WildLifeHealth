@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/WildLifeHealth/static/css/main.b040926b.css",
-    "main.js": "/WildLifeHealth/static/js/main.78bb1a4c.js",
+    "main.css": "/WildLifeHealth/static/css/main.f8b12918.css",
+    "main.js": "/WildLifeHealth/static/js/main.607f161a.js",
     "static/media/homemain.jpg": "/WildLifeHealth/static/media/homemain.beb8ec09af9061a61df3.jpg",
     "static/media/home-background.jpg": "/WildLifeHealth/static/media/home-background.0c79c54a075d5fd1496b.jpg",
     "static/media/about-page-img1.png": "/WildLifeHealth/static/media/about-page-img1.0c8bf65849a5f49cd590.png",
@@ -41,11 +41,11 @@
     "static/media/home-page2.jpg": "/WildLifeHealth/static/media/home-page2.dcd8c7971f0db68daa14.jpg",
     "static/media/wlh-logo.png": "/WildLifeHealth/static/media/wlh-logo.59afe249a17b0e93ae3e.png",
     "index.html": "/WildLifeHealth/index.html",
-    "main.b040926b.css.map": "/WildLifeHealth/static/css/main.b040926b.css.map",
-    "main.78bb1a4c.js.map": "/WildLifeHealth/static/js/main.78bb1a4c.js.map"
+    "main.f8b12918.css.map": "/WildLifeHealth/static/css/main.f8b12918.css.map",
+    "main.607f161a.js.map": "/WildLifeHealth/static/js/main.607f161a.js.map"
   },
   "entrypoints": [
-    "static/css/main.b040926b.css",
-    "static/js/main.78bb1a4c.js"
+    "static/css/main.f8b12918.css",
+    "static/js/main.607f161a.js"
   ]
 }
